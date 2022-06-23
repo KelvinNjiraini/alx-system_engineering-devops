@@ -1,0 +1,2 @@
+#!/bin/dir
+chown -R vincent[:staff] .
